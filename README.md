@@ -37,5 +37,3 @@
 3. Create a pull request, merging your branch into develop. Don't ever merge your own pull request! Have Person 1 in your group merge the pull request.
 
 4) Everyone in your group checkout to the develop branch and run 'git pull' to see Person 3's changes.
-
-#Create a merge conflict.
