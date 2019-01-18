@@ -8,7 +8,7 @@
 
 3. One person in your group create a branch off master named "develop"
 
-#Person 1 directions:
+## Person 1 directions:
 
 1. Off of develop, create a branch called {your_name}/add-html.
 
@@ -18,7 +18,7 @@
 
 4) Everyone in your group checkout to the develop branch and run 'git pull' to see Person 1's changes.
 
-#Person 2 directions:
+## Person 2 directions:
 
 1. Off of develop, create a branch called {your_name}/add-css.
 
@@ -28,7 +28,7 @@
 
 4) Everyone in your group checkout to the develop branch and run 'git pull' to see Person 2's changes.
 
-#Person 3 directions:
+## Person 3 directions:
 
 1. Off of develop, create a branch called {your_name}/add-javascript.
 
