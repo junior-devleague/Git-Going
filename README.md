@@ -1,14 +1,14 @@
 # Git-Going
 
-#This is a Git Work-Flow exercise. No talking! Use slack to communicate with each other. Follow the directions and watch the web page come to life with your team work!
+#### This is a Git Work-Flow exercise. No talking! Use slack to communicate with each other. Follow the directions and watch the web page come to life with your team work!
 
 1. Form teams of 3 and assign each person a number 1, 2, and 3.
 
 2. Everyone clone this repo.
 
-3. One person in the group create a branch off master named "develop". Then everyone in the group run 'live-server' in the develop branch.
+3. One person in the group create a branch off master named "develop". Then, everyone run 'live-server' in the develop branch to see changes.
 
-#Person 1 directions:
+## Person 1 directions:
 
 1. Off of develop, create a branch called {your_name}/add-html.
 
@@ -18,7 +18,7 @@
 
 4) Everyone in your group checkout to the develop branch and run 'git pull' to see Person 1's changes.
 
-#Person 2 directions:
+## Person 2 directions:
 
 1. Off of develop, create a branch called {your_name}/add-css.
 
@@ -28,7 +28,7 @@
 
 4) Everyone in your group checkout to the develop branch and run 'git pull' to see Person 2's changes.
 
-#Person 3 directions:
+## Person 3 directions:
 
 1. Off of develop, create a branch called {your_name}/add-javascript.
 
