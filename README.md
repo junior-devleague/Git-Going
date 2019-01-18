@@ -6,7 +6,7 @@
 
 2. Everyone clone this repo.
 
-3. One person in your group create a branch off master named "develop"
+3. One person in the group create a branch off master named "develop". Then everyone in the group run 'live-server' in the develop branch.
 
 #Person 1 directions:
 
