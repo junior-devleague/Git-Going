@@ -1,6 +1,6 @@
 # Git-Going
 
-#This is a Git Work-Flow exercise. No talking! Use slack to communicate with each other. Follow the directions and watch the web page come to life with your team work!
+## This is a Git Work-Flow exercise. No talking! Use slack to communicate with each other. Follow the directions and watch the web page come to life with your team work!
 
 1. Form teams of 3 and assign each person a number 1, 2, and 3.
 
@@ -38,4 +38,3 @@
 
 4) Everyone in your group checkout to the develop branch and run 'git pull' to see Person 3's changes.
 
-#Create a merge conflict.
