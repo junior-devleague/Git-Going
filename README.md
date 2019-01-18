@@ -4,7 +4,7 @@
 
 1. Form teams of 3 and assign each person a number 1, 2, and 3.
 
-2. Person 1 fork the repo. Everyone clone the repo off of person 1.
+2. Person 1 fork the repo. Everyone clone the repo off of Person 1. Person 1 add everyone in your team as a collaborator.
 
 3. One person in the group create a branch off master named "develop". Then, everyone run 'live-server' in the develop branch to see changes.
 
